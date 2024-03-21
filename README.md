@@ -1,16 +1,20 @@
-### Hi there 👋
+## :wave: Olá, Sou Deivison Gonçalves
 
-<!--
-**Deivisongs/Deivisongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sobre Mim** 
+&nbsp;
 
-Here are some ideas to get you started:
+Olá, sou Deivison Gonçalves, desenvolvedor de Belo Horizonte.  
+Sempre gostei da arte da **Programação** porem minha jornada começa em 2022
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **SENAI**
+- Começei meus estudos no **SENAI CTTI** onde pude me desenvolver bastente da logica.  
+  No **SENAI** foi onde aprendi a *programar* não somente na pratica mas também na teoria.
+   
+  - **Aprendizados:** HTML, CSS, JAVASCRIPT, REACT, MYSQL, e PHP
+
+**OneBitCode**
+- Atualmente estou estudando na plataforma da **OneBitCode**, e tenho me empenhado no estudo  
+  de tecnologias como JavaScript, TypeScript, SASS, REACT, SQL, e Outras tecnologias.
+
+
+   
